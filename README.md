@@ -1,7 +1,5 @@
 # youtube-comment-analysis
-This project goes through six steps to form a complete end to end project.  The final deliverable is hosted on the Google Cloud and can be see at the following web address:
-
-https://conductive-well-329218.uc.r.appspot.com/
+This project goes through six steps to form a complete end to end project.  At this time, the final dashboard is no longer being publicly hosted.
 
 The complete project goes through the following six steps:
 1. Pull all parent comments for a given YouTube channel using YouTube's API
